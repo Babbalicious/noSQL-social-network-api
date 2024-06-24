@@ -1,4 +1,4 @@
-# noSQL-social-network-api
+# NoSQL: Social Network API
 
 ## Purpose
 
