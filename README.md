@@ -18,10 +18,6 @@ Once the server is running, the user can use the Insomnia application to test GE
 View the walkthrough video at this link: [Walkthrough Video](https://drive.google.com/file/d/1NuaEkAgxth4qiJ1n326nVZb9_hW919iW/view)
 
 
-## Screenshot
-
-![Application Screenshot](./images/screenshot.png)
-
 ## Contact Me
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities.
